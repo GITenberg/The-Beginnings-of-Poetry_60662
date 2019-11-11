@@ -1,0 +1,23 @@
+_repo: The-Beginnings-of-Poetry_60662
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gummere, Francis Barton
+    birthdate: 1855
+    deathdate: 1919
+    gutenberg_agent_id: '497'
+    url: http://www.gutenberg.org/2009/agents/497
+    wikipedia: https://en.wikipedia.org/wiki/Francis_Barton_Gummere
+description: ''
+gutenberg_issued: '2019-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60662'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Beginnings of Poetry
+url: http://www.gutenberg.org/ebooks/60662
