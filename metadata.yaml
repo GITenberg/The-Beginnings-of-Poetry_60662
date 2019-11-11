@@ -1,5 +1,8 @@
 _repo: The-Beginnings-of-Poetry_60662
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60662-h/images/cover.jpg
 creator:
   author:
     agent_name: Gummere, Francis Barton
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/497
     wikipedia: https://en.wikipedia.org/wiki/Francis_Barton_Gummere
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60662#The-Beginnings-of-Poetry
 gutenberg_issued: '2019-11-09'
 gutenberg_type: Text
 identifiers:
